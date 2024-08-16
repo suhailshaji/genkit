@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='genkit',
-    version='0.1.2',
-    description='A Python package for generating random data like phone numbers.',
+    version='0.1.3',
+    description='A Python package for generating random data like phone numbers .',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Suhail Shaji',
