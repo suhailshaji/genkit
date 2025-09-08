@@ -14,7 +14,7 @@
 - **Email Address Generation**
   - Generate random email addresses with customizable domains and username lengths.
   - Multiple output formats: string, list, and dictionary.
-  - Option to save generated email addresses to a file.
+  - Option to save generated email addresses to a files.
 
 ## Installation
 
